@@ -10,3 +10,5 @@
 
 # What is Appstore – Free Flutter UI Kit Google Play Store Clone about?
 # Appstore is a set of predesigned and pre-coded screens. With an aim to be flexible and easy to use, Appstore, being the best free Flutter UI Google Play Store Clone, can easily be converted to customers’ favorite place to discover from a number of mobile apps, stickers, arrays of content categories, and games.
+
+# flutter 2.0.0
